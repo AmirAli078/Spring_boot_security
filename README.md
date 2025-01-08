@@ -22,3 +22,9 @@ This project demonstrates how to build a secure *Spring Security Registration an
 - JDK 17 or higher  
 - Maven 3.x  
 - IDE of your choice (IntelliJ, Eclipse, etc.)
+  ![database](https://github.com/user-attachments/assets/faacad2c-9876-42ad-90b3-449e71b798c1)
+![admin](https://github.com/user-attachments/assets/0160f386-4a5c-4601-87c7-8a3b8e40283c)
+![user](https://github.com/user-attachments/assets/1124c6a9-f899-4651-ba7c-941a1626ea51)
+![register](https://github.com/user-attachments/assets/43ae61e9-adca-4f4d-9c81-592819a94e62)
+![login](https://github.com/user-attachments/assets/323c8ab5-fd18-42b6-84a1-80ee572ce802)
+
