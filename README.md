@@ -1,4 +1,4 @@
-# Spring_boot_security# Spring Security Registration and Login Application  
+# Spring Security Registration and Login Application  
 
 This project demonstrates how to build a secure *Spring Security Registration and Login Application* with dedicated User and Admin pages. It is a step-by-step implementation of a robust authentication system using *Spring Boot* and *Spring Security*.  
 
